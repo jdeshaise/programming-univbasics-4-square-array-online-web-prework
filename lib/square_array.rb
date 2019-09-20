@@ -12,8 +12,7 @@
 
 
 def square_array(array)
-  # your code here
-  array =[1,3,4]
+  new_array =[]
 
   counter = 0
 
