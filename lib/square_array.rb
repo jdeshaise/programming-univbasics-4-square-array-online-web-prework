@@ -13,4 +13,8 @@
 
 def square_array(array)
   # your code here
+  array =[1,3,4]
+
+  counter = 0
+  
 end
