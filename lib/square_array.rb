@@ -16,5 +16,5 @@ def square_array(array)
   array =[1,3,4]
 
   counter = 0
-  
+
 end
